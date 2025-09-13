@@ -1,7 +1,7 @@
 # 💇‍♂️ Hair Day
 
 **Aplicação web para agendamento de cortes de cabelo.**  
-Este projeto foi desenvolvido junto com o professor no **Curso FullStack da Rocketseat**, com o objetivo de praticar **JavaScript moderno (ESModules), Day.js, consumo de API fake (JSON Server)** e o uso de **Webpack** para empacotamento.
+Este projeto foi desenvolvido durante o **Curso FullStack da Rocketseat**, com o objetivo de praticar **JavaScript moderno (ESModules), Day.js, consumo de API fake (JSON Server)** e o uso de **Webpack** para empacotamento.
 
 ---
 
