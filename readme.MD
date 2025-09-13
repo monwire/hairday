@@ -41,3 +41,7 @@ Durante o desenvolvimento, foram praticados conceitos como:
 ## Créditos
 
 Projeto desenvolvido durante o Curso Full-Stack da Rocketseat
+
+---
+
+### Att: monwire
